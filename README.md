@@ -38,4 +38,4 @@ terminate as soon as the scope of that interfaces has ended.
 - for vector file : ```make && ./vector```
 - for matrix file : ``` make && ./matrix```
 
-#### Github Link - [Link](https://github.com/nav-yam/OS-A5)
+#### Github Link - (https://github.com/Satvik1924/SimpleMultithreader?tab=readme-ov-file)
